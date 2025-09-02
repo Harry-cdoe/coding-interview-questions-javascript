@@ -1,0 +1,24 @@
+{
+  "name": "dsa-grind-2025",
+  "version": "1.0.0",
+  "description": "Solving LeetCode 75 + Top Interview 150 + 100 Most Liked in 30 days.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harry-cdoe/dsa-grind-2025.git"
+  },
+  "keywords": ["DSA", "LeetCode", "JavaScript", "Algorithms"],
+  "author": "Harry Dev",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Harry-cdoe/dsa-grind-2025/issues"
+  },
+  "homepage": "https://github.com/Harry-cdoe/dsa-grind-2025#readme",
+  "devDependencies": {
+    "jest": "^30.1.2"
+  }
+}
