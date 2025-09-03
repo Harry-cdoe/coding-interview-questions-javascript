@@ -45,7 +45,7 @@ function twoSumTwoPointer(nums, target) {
     const sum = nums[left] + nums[right];
     if (sum === target) return [left, right];
     else if (sum < target) left++;
-    else right--;
+    else right--; 
   }
   return [];
 }
